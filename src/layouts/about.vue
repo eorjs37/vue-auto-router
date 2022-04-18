@@ -1,5 +1,6 @@
 <template>
-  <h1>partial</h1>
+  <h1>about</h1>
+  <router-view/>
 </template>
 
 <script>
